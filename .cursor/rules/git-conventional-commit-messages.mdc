@@ -1,5 +1,7 @@
 ---
 description: 生成一个符合规范的中文 Git Commit Message
+globs: 
+alwaysApply: false
 ---
 
 # 生成一个符合规范的中文 Git Commit Message，要求：
