@@ -1,0 +1,2 @@
+# cusor-rules
+cursor rules
